@@ -1,5 +1,10 @@
 # cs-club-slides
 
+## CCC 2019 Junior Review
+2/22/2019
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToRsbHzpmWf_lWvNyEj-26H6Wka2TT6ZGrqKLqQYP4G2whpAEECytThq1UkmtPGaixd0qxrkQ907Td/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Lecture 2
 11/02/2018
 
